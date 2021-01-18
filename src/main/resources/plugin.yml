@@ -1,0 +1,8 @@
+name: AtlantisRPG
+version: ${project.version}
+main: com.optimuseprime.atlantisrpg.AtlantisRPG
+api-version: 1.13
+load: STARTUP
+authors: [OptimusePrime]
+description: AtlantisRPG is a plugin that adds a lot of RPG and MMO features in the minecraft and all of them are configurable.
+website: optimuseprime.com

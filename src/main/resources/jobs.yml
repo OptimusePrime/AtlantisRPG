@@ -1,0 +1,9 @@
+jobs:
+  miner:
+    name: '&bMiner'
+    levels:
+      '0':
+        itemsRequired:
+          - APPLE|32
+    paymentDecreaseFactor: 1.3
+    maxLevelPay: '2750$'
